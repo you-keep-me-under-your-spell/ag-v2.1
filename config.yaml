@@ -1,0 +1,9 @@
+username_method: experimental
+username_template: 
+password_template: "[A-Za-z0-9]{20}"
+
+workers: 100
+solvers: 100
+resubmitters: 100
+
+genders: [2,1]
